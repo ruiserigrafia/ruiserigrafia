@@ -1,24 +1,10 @@
 ## Bem-vindo(a) ao perfil de Rui Guilherme 😁
 
- <div>
+ <!--div>
    <a href="https://github.com/ruiserigrafia">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruiserigrafia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruiserigrafia&layout=compact&langs_count=6&theme=tokyonight"/>
-
-   <!-- Seu card de estatísticas -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruiserigrafia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<!-- Animação da Cobra (Roda após o primeiro sucesso do Github Actions) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="Github grid snake" src="https://githubusercontent.com">
-</picture>
-
-
-
-
-</div>
+</div-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
